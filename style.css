@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&family=Quicksand&display=swap');
+body {
+    background-image: url(flower.jpg);
+    text-align: center;
+    padding-top: 250px;
+    }
+h1 {
+    font-family: 'Hachi Maru Pop', cursive;
+    }
+p {
+    font-family: 'Quicksand', sans-serif;
+    }
+div:hover, h1:hover, a:hover {
+    background-color: rgba(224, 199, 213, 0.589);
+    }
+alright {
+    height: 50% ;
+    }
+cece {
+    opacity: 100%;
+    height: auto;
+    }
